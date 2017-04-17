@@ -1,4 +1,4 @@
-# PHP Lover's Blog
+# ![alt tag](https://github.com/Jyotsna-Singh/PHP-Lovers-Blog/blob/master/images/logo2.PNG)
 
 This project is a fairly large blogging system. It has an admin section to add posts, delete posts as well as update them. A completely custom MySQLi Database class and custom helper functions are used.
 
@@ -12,7 +12,7 @@ This project is a fairly large blogging system. It has an admin section to add p
 1.0
 
 ## Live Demo
- [SecretDiary](http://jyotsna-singh-com.stackstaging.com/projects/php/SecretDiary/)
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/php/phploversblog/)
 
 ## Snapshots
   
